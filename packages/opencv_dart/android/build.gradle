@@ -59,7 +59,7 @@ android {
   }
 
   defaultConfig {
-    minSdkVersion 24
+    minSdkVersion 21
 
     // Invoke the shared CMake build with the Android Gradle Plugin.
     externalNativeBuild {
